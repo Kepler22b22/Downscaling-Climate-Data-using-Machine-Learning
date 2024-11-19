@@ -1,0 +1,3 @@
+nohup: ignoring input
+Data Loaded. 
+Now, doing plotting. 

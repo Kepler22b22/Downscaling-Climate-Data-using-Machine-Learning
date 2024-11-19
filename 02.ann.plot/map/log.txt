@@ -1,0 +1,10 @@
+nohup: ignoring input
+Figure was saved into file: ./figures/subplot-tmin-cru-2.pdf
+Figure was saved into file: ./figures/subplot-tmin-ccsm-2.pdf
+Figure was saved into file: ./figures/subplot-tmin-ann-2.pdf
+Figure was saved into file: ./figures/subplot-tmax-cru-2.pdf
+Figure was saved into file: ./figures/subplot-tmax-ccsm-2.pdf
+Figure was saved into file: ./figures/subplot-tmax-ann-2.pdf
+Figure was saved into file: ../../02.bc.plot/map/figures/subplot-pr-cru-2.pdf
+Figure was saved into file: ../../02.bc.plot/map/figures/subplot-pr-ccsm-2.pdf
+Figure was saved into file: ../../02.bc.plot/map/figures/subplot-pr-bc-2.pdf

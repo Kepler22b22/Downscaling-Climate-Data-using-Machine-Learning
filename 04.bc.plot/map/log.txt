@@ -1,0 +1,11 @@
+nohup: ignoring input
+Data Loaded. 
+Now, doing plotting. 
+Figure was saved into file: ./figures/subplot-pr-ccsm-rcp26-1.pdf
+Figure was saved into file: ./figures/subplot-pr-bc-rcp26-1.pdf
+Figure was saved into file: ./figures/subplot-pr-ccsm-rcp85-1.pdf
+Figure was saved into file: ./figures/subplot-pr-bc-rcp85-1.pdf
+Figure was saved into file: ./figures/subplot-pr-ccsm-rcp26-2.pdf
+Figure was saved into file: ./figures/subplot-pr-bc-rcp26-2.pdf
+Figure was saved into file: ./figures/subplot-pr-ccsm-rcp85-2.pdf
+Figure was saved into file: ./figures/subplot-pr-bc-rcp85-2.pdf
